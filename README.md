@@ -3,4 +3,4 @@ aiopass
 
 Proyecto Aiopass
 
-Proyecto  demo   
+Proyecto  demo  de integracion de tecnologias mobiles.  
