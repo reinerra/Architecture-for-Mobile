@@ -1,6 +1,19 @@
-aiopass
+Mobile Architecture
 =======
 
-Proyecto Aiopass
+Proyecto  de integracion de tecnologias para la creacion de aplicaciones mobile.
 
-Proyecto  demo  de integracion de tecnologias mobiles.  
+FrontEnd
+  HTML5
+  JQuery Mobile
+  JQuery 
+  Jade (mvc)
+  PhoneGap
+
+BacKEnd
+  Nginx
+  NodeJs
+  Redis
+  MongoDb 
+  MySql 
+  Resty
