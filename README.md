@@ -1,7 +1,7 @@
 Mobile Architecture
 =======
 
-Proyecto  de integracion de tecnologias para la creacion de aplicaciones mobile.
+Technology integration project for creating mobile applications.
 
 FrontEnd
   HTML5
